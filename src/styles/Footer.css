@@ -1,0 +1,19 @@
+.app-footer {
+  background-color: #282c34; /* Dark background for the footer */
+  color: #fff; /* White text color */
+  text-align: center;
+  padding: 20px 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.app-footer a {
+  color: #4caf50; /* Example: Bright green color for links */
+  text-decoration: none; /* Removes underline */
+}
+
+.app-footer a:hover {
+  text-decoration: underline; /* Adds underline on hover */
+}
